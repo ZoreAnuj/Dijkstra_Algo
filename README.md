@@ -27,4 +27,4 @@ zoreanuj@umd.edu
 
 3] Enter your source and destination coordinates.
 
-4] After reaching the goal. The transversal will be visualized with matplotlib.
+4] After reaching the goal the transversal will be visualized with matplotlib.
